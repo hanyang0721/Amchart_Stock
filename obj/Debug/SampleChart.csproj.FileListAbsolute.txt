@@ -1,0 +1,230 @@
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\ApplicationInsights.config
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\csc.exe
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\csc.exe.config
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\csc.rsp
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\csi.exe
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\csi.rsp
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\System.AppContext.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\vbc.exe
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\vbc.exe.config
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\vbc.rsp
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\VBCSCompiler.exe
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\SampleChart.dll.config
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\SampleChart.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\SampleChart.pdb
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Antlr3.Runtime.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\EntityFramework.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\EntityFramework.SqlServer.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.AI.Web.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Newtonsoft.Json.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\System.Web.Helpers.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\System.Web.Mvc.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\System.Web.Optimization.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\System.Web.Razor.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\System.Web.WebPages.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\System.Web.WebPages.Razor.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\WebGrease.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\EntityFramework.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\EntityFramework.SqlServer.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\System.Web.Helpers.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\System.Web.Mvc.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\System.Web.Optimization.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\System.Web.Razor.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\System.Web.WebPages.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\System.Web.WebPages.Razor.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Antlr3.Runtime.pdb
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Newtonsoft.Json.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\bin\Microsoft.AI.Web.xml
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\obj\Debug\SampleChart.csprojResolveAssemblyReference.cache
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\obj\Debug\SampleChart.dll
+C:\Users\atoba\documents\visual studio 2017\Projects\SampleChart\SampleChart\obj\Debug\SampleChart.pdb
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\DataModel\SampleChart.Context.tt
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\DataModel\SampleChart.edmx.diagram
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\DataModel\SampleChart.tt
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\ApplicationInsights.config
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\DataModel\Price.cs
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\DataModel\SampleChart.Context.cs
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\DataModel\SampleChart.cs
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\DataModel\SampleChart.Designer.cs
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\csc.exe
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\csc.exe.config
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\csc.rsp
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\csi.exe
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\csi.rsp
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\System.AppContext.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\vbc.exe
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\vbc.exe.config
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\vbc.rsp
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\VBCSCompiler.exe
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\SampleChart.dll.config
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\SampleChart.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\SampleChart.pdb
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Antlr3.Runtime.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\EntityFramework.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\EntityFramework.SqlServer.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.AI.Web.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Newtonsoft.Json.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\System.Web.Helpers.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\System.Web.Mvc.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\System.Web.Optimization.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\System.Web.Razor.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\System.Web.WebPages.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\System.Web.WebPages.Razor.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\WebGrease.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Antlr3.Runtime.pdb
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\EntityFramework.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\EntityFramework.SqlServer.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.AI.Web.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\Newtonsoft.Json.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\System.Web.Helpers.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\System.Web.Mvc.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\System.Web.Optimization.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\System.Web.Razor.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\System.Web.WebPages.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\bin\System.Web.WebPages.Razor.xml
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\obj\Debug\SampleChart.csproj.CoreCompileInputs.cache
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\obj\Debug\SampleChart.csproj.CopyComplete
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\obj\Debug\SampleChart.dll
+C:\Users\HY\Downloads\amchart-asp-net-mvc-master - Copy\obj\Debug\SampleChart.pdb
+C:\Users\HY\Dropbox\amchart-stock\bin\DataModel\SampleChart.Context.tt
+C:\Users\HY\Dropbox\amchart-stock\bin\DataModel\SampleChart.edmx.diagram
+C:\Users\HY\Dropbox\amchart-stock\bin\DataModel\SampleChart.tt
+C:\Users\HY\Dropbox\amchart-stock\bin\ApplicationInsights.config
+C:\Users\HY\Dropbox\amchart-stock\bin\DataModel\Price.cs
+C:\Users\HY\Dropbox\amchart-stock\bin\DataModel\SampleChart.Context.cs
+C:\Users\HY\Dropbox\amchart-stock\bin\DataModel\SampleChart.cs
+C:\Users\HY\Dropbox\amchart-stock\bin\DataModel\SampleChart.Designer.cs
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\csc.exe
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\csc.exe.config
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\csc.rsp
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\csi.exe
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\csi.rsp
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\System.AppContext.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\vbc.exe
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\vbc.exe.config
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\vbc.rsp
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\VBCSCompiler.exe
+C:\Users\HY\Dropbox\amchart-stock\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HY\Dropbox\amchart-stock\bin\SampleChart.dll.config
+C:\Users\HY\Dropbox\amchart-stock\bin\SampleChart.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\SampleChart.pdb
+C:\Users\HY\Dropbox\amchart-stock\bin\Antlr3.Runtime.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\EntityFramework.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\EntityFramework.SqlServer.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.AI.Web.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\Newtonsoft.Json.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\System.Web.Helpers.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\System.Web.Mvc.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\System.Web.Optimization.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\System.Web.Razor.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\System.Web.WebPages.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\System.Web.WebPages.Razor.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\WebGrease.dll
+C:\Users\HY\Dropbox\amchart-stock\bin\Antlr3.Runtime.pdb
+C:\Users\HY\Dropbox\amchart-stock\bin\EntityFramework.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\EntityFramework.SqlServer.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.AI.Web.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\Newtonsoft.Json.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\System.Web.Helpers.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\System.Web.Mvc.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\System.Web.Optimization.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\System.Web.Razor.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\System.Web.WebPages.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HY\Dropbox\amchart-stock\bin\System.Web.WebPages.Razor.xml
+C:\Users\HY\Dropbox\amchart-stock\obj\Debug\SampleChart.csprojAssemblyReference.cache
+C:\Users\HY\Dropbox\amchart-stock\obj\Debug\SampleChart.csproj.CoreCompileInputs.cache
+C:\Users\HY\Dropbox\amchart-stock\obj\Debug\SampleChart.csproj.CopyComplete
+C:\Users\HY\Dropbox\amchart-stock\obj\Debug\SampleChart.dll
+C:\Users\HY\Dropbox\amchart-stock\obj\Debug\SampleChart.pdb
