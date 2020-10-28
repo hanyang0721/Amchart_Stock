@@ -10,4 +10,4 @@ package error replace path in .csproj,
 <Import Project="..\packages\Microsoft.CodeDom.Provi remove .., !!! 
 reload and unload, or use nuget console run Update-Package –reinstall
 
-![image](https://github.com/hanyang0721/image/blob/master/SKOrder.png)
+![image](https://github.com/hanyang0721/Amchart_Stock/blob/master/Pic/demo.png?raw=true)
